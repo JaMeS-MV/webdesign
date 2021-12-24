@@ -1,0 +1,39 @@
+header{
+    background-color: blue;
+    display: flex;
+    width: 100%;
+    height: 10vh;
+    align-items: center;
+}
+h2{
+    font-size: 1em;
+    margin-left: 1rem;
+}
+nav{
+    background: green;
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+nav li{
+    list-style: none;
+}
+li a{
+    color: white;
+}
+h4{
+    font-size: 2em;
+    text-align: center;
+}
+.container{
+    width: 80%;
+    height: 20%;
+    margin-left: 4em;
+}
+footer{
+    background-color: lightblue;
+    text-align: center;
+    
+}
